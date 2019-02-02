@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="de.jflex:cup_runtime:11b" type="repository">
+    <properties maven-id="de.jflex:cup_runtime:11b" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.m2/repository/de/jflex/cup_runtime/11b/cup_runtime-11b.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
